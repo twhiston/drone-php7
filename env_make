@@ -1,0 +1,6 @@
+NS = tomwhiston
+VERSION ?= latest
+
+REPO = drone-php7
+NAME = drone-php7
+INSTANCE = head
