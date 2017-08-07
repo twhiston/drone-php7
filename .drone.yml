@@ -1,0 +1,5 @@
+pipeline:
+  docker:
+    image: plugins/docker
+    repo: tomwhiston/drone-php7
+    secrets: [ docker_username, docker_password ]
